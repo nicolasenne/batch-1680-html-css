@@ -1,0 +1,52 @@
+/* TODO: design your profile with CSS */
+body {
+  color: #575F7D;
+  background-color: #F7F9FC;
+}
+
+div {
+  background: white;                         /* White background */
+  padding: 30px;                             /* Internal space */
+  border-radius: 4px;                        /* Small radius */
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);    /* Light shadow */
+  width: 500px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+img {
+  width: 100px;
+  border-radius: 50%;
+}
+
+#btn-blue {
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  background-color: #6B72E1;
+  color: rgb(255, 255, 255);
+  padding: 16px;
+  border-radius: 8px;
+}
+
+#btn-blue:hover {
+  background-color: black;
+}
+
+h1 {
+  font-family: 'Roboto';
+}
+
+h2 {
+  font-family: 'Roboto';
+  color: #7ECE90;
+}
+
+.main-paragraph {
+  margin-bottom: 40px;
+}
+
+i {
+  font-size: 32px;
+  color: rgb(230, 230, 230);
+}
